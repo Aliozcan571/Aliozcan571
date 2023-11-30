@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliozcan571&" alt="aliozcan571" /></p>
 
+![snake gif](https://github.com/Aliozcan571/Aliozcan571/blob/output/github-contribution-grid-snake.gif)
