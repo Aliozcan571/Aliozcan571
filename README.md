@@ -1,5 +1,3 @@
-<img src="https://github.com/Aliozcan571/Aliozcan571/blob/main/Screenshot_9.png?raw=true">
-
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">Full Stack Automation Tester</h3>
 
@@ -7,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliozcan571" alt="aliozcan571" /></a> </p>
 
-- 🔭 I’m currently working on [Managementon Schools](https://managementonschools.com/)
+- 🔭 I’m currently working on [Managementon Schools Project](https://managementonschools.com/)
 
 - 🌱 I’m currently learning **JMeter**
 
-- 💬 Ask me about **Java, JDBC, JIRA, Jenkins, Selenium, JUnit, TestNG, Cucumber, API, JMeter**
+- 💬 Ask me about **Java, JDBC, Jira, Jenkins, Selenium, JUnit, TestNG, Cucumber, API, JMeter**
 
 - 📫 How to reach me **kardeslerime.selam.571@gmail.com**
 
@@ -28,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliozcan571&show_icons=true&locale=en" alt="aliozcan571" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliozcan571&" alt="aliozcan571" /></p>
-
 
