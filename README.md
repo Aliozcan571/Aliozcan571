@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">Full Stack Automation Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozcan571&label=Profile%20views&color=0e75b6&style=flat" alt="aliozcan571" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliozcan571" alt="aliozcan571" /></a> </p>
 
 - 🔭 I’m currently working on [Managementon Schools Project](https://managementonschools.com/)
 
@@ -14,6 +11,10 @@
 - 💬 Ask me about **Java, JDBC, Jira, Jenkins, Selenium, JUnit, TestNG, Cucumber, API, JMeter**
 
 - 📫 How to reach me **kardeslerime.selam.571@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozcan571&label=Profile%20views&color=0e75b6&style=flat" alt="aliozcan571" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliozcan571" alt="aliozcan571" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
