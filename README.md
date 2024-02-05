@@ -1,3 +1,5 @@
+<img src="https://github.com/Aliozcan571/Aliozcan571/blob/main/Screenshot_9.png?raw=true">
+
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">Full Stack Automation Tester</h3>
 
