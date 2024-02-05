@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SELENIUM, JUnit, Test NG, Cucumber ,API**
 
+- 🌱 Ask me about **Java, JDBC, JIRA, Selenium, JUnit, TestNG, Cucumber, API, Jmeter, Jenkins**
+
 - 📫 How to reach me **kardeslerime.selam.571@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
