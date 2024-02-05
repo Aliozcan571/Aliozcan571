@@ -1,3 +1,5 @@
+<img src="https://github.com/Aliozcan571/Aliozcan571/raw/main/depositphotos_309390304-stock-photo-api-concept-with-downtown-los.webp">
+
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">A passionate Full Stack Automation Tester from Turkey</h3>
 
