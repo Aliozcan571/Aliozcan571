@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">A passionate Full Stack Automation Tester from Turkey</h3>
 
-- 🌱 I’m currently learning **SELENIUM, JUnit, Test NG, Cucumber ,API,Jmeter**
+- 🌱 I’m currently learning **SELENIUM, JUnit, Test NG, Cucumber ,API**
 
 - 📫 How to reach me **kardeslerime.selam.571@gmail.com**
 
