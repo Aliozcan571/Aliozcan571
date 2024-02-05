@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozcan571&label=Profile%20views&color=0e75b6&style=flat" alt="aliozcan571" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [Managementon Schools Project](https://managementonschools.com/)
 
 - 🌱 I’m currently learning **JMeter**
