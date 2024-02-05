@@ -1,4 +1,4 @@
-<img src="https://github.com/Aliozcan571/Aliozcan571/blob/main/sdet_post.jpg?raw=true">
+<img src="https://github.com/Aliozcan571/Aliozcan571/blob/main/Screenshot_10.png?raw=true">
 
 <h1 align="center">Hi 👋, I'm Ali Özcan</h1>
 <h3 align="center">A passionate Full Stack Automation Tester from Turkey</h3>
