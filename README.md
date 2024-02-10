@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Managementon Schools Project](https://managementonschools.com/)
 
-- 🌱 I’m currently learning **JMeter**
+- 🌱 I’m currently learning **Appium**
 
 - 💬 Ask me about **Java, JDBC, Jira, Jenkins, Selenium, JUnit, TestNG, Cucumber, API, JMeter**
 
