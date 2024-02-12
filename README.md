@@ -58,9 +58,9 @@
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
     </a>
-    <a href="https://testng.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="TestNG" width="40" height="40"/>
-    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozcan571&show_icons=true&locale=en&layout=compact" alt="aliozcan571" /></p>
