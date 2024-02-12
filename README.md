@@ -25,6 +25,9 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
     </a>
+    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
@@ -36,15 +39,6 @@
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-    </a>
-    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
-    </a>
-    <a href="https://junit.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/junit-team/junit-team-icon.svg" alt="JUnit" width="40" height="40"/>
-    </a>
-    <a href="https://testng.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="TestNG" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
