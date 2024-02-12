@@ -42,9 +42,15 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
     </a>
-    <a href="https://cucumber.io" target="_blank" rel="noreferrer">Cucumber</a>
-    <a href="https://junit.org" target="_blank" rel="noreferrer">JUnit</a>
-    <a href="https://testng.org" target="_blank" rel="noreferrer">TestNG</a>
+    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
+        <img src="[https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/cucumberio/cucumberio-ar21.svg)" alt="Cucumber" width="40" height="40"/>
+    </a>
+    <a href="https://junit.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/junit-team/junit-team-icon.svg" alt="JUnit" width="40" height="40"/>
+    </a>
+    <a href="https://testng.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="TestNG" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
