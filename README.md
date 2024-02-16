@@ -68,7 +68,16 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="Postman" width="40" height="40"/>
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="JMeter" width="50" height="60"/>
+    <img src="https://jmeter.apache.org/images/jmeter_square.png" alt="JMeter" width="50" height="60"/>
+</a>
+    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*TlkyKeNmtgVOzQ7B-DKxyA.jpeg" alt="JMeter" width="50" height="60"/>
+</a>
+    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VwuyyXkIhQOYggrUbuXxcA.png" alt="JMeter" width="50" height="60"/>
+</a>
+    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://i0.wp.com/automatenow.io/wp-content/uploads/2023/05/jmeter-logo.jpg?w=356&ssl=1" alt="JMeter" width="50" height="60"/>
 </a>
 </p>
 
