@@ -35,11 +35,8 @@
     <img src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" alt="TestNG" width="40" height="40"/>
 </a>
      <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" width="40" height="50"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" width="45" height="60"/>
 </a>
-    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/C/cucumber-logo-A5197CAD09-seeklogo.com.png" alt="Cucumber" width="110" height="45"/>
-    </a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer">
         <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="60" height="45"/>
     </a>
