@@ -62,7 +62,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/88703/api.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.seagullscientific.com/media/2976/rest-api-feature-700x300.png" alt="Postman" width="40" height="40"/>
+</a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://help.autodesk.com/view/SGDEV/ENU/images/rest-api-homepage.png" alt="Postman" width="40" height="40"/>
 </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jetbrains_intellijidea/jetbrains_intellijidea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
