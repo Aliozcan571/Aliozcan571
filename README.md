@@ -25,8 +25,11 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
     </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</a>
      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40"/>
     </a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
@@ -66,9 +69,6 @@
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="JMeter" width="50" height="60"/>
-</a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </a>
 </p>
 
