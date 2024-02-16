@@ -34,6 +34,12 @@
     <a href="https://cucumber.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
     </a>
+    <a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://testng.org/doc/download.png" alt="TestNG" width="40" height="40"/>
+</a>
+     <a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" width="40" height="40"/>
+</a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
     </a>
