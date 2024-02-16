@@ -41,10 +41,10 @@
         <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
     </a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/C/cucumber-logo-A5197CAD09-seeklogo.com.png" alt="Cucumber" width="110" height="50"/>
+        <img src="https://seeklogo.com/images/C/cucumber-logo-A5197CAD09-seeklogo.com.png" alt="Cucumber" width="110" height="45"/>
     </a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer">
-        <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="60" height="50"/>
+        <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="60" height="45"/>
     </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
