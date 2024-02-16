@@ -30,17 +30,16 @@
     </a>
      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40"/>
-    </a>
-    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
-    </a>
-    <a href="https://junit.org/" target="_blank" rel="noreferrer">JUnit</a>
-    <a href="https://testng.org/" target="_blank" rel="noreferrer">
+     </a>
+    <a href="https://junit.org/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png" alt="TestNG" width="40" height="40"/>
 </a>
      <a href="https://testng.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4BHz11q6OIX4z8FqtZjjSg.png" alt="TestNG" width="40" height="40"/>
 </a>
+    <a href="https://cucumber.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber" width="40" height="40"/>
+    </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
     </a>
