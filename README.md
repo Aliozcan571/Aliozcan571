@@ -61,6 +61,12 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains_intellijidea/jetbrains_intellijidea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliozcan571&show_icons=true&locale=en&layout=compact" alt="aliozcan571" /></p>
