@@ -65,7 +65,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="Postman" width="40" height="40"/>
     </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="JMeter" width="50" height="40"/>
+    <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="JMeter" width="50" height="60"/>
 </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://icon-library.com/images/api-icon/api-icon-3.jpg" alt="IntelliJ IDEA" width="40" height="40"/>
