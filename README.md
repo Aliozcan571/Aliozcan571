@@ -68,7 +68,7 @@
     <img src="https://www.svgrepo.com/show/329945/apachejmeter.svg" alt="JMeter" width="50" height="60"/>
 </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://icon-library.com/images/api-icon/api-icon-3.jpg" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-Intellij-IDEA.png" alt="IntelliJ IDEA" width="40" height="40"/>
 </a>
 </p>
 
