@@ -62,7 +62,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
 </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.seagullscientific.com/media/2976/rest-api-feature-700x300.png" alt="Postman" width="40" height="40"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Ftr%2Fimage-vector%2Fapi-interface-vector-icon-659203513&psig=AOvVaw0Z6VvIfJhsUWgTZpCPybRe&ust=1708151181713000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiR_cSUna-EAxVryAIHHaJSAUoQjRx6BAgAEBY" alt="Postman" width="40" height="40"/>
 </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://help.autodesk.com/view/SGDEV/ENU/images/rest-api-homepage.png" alt="Postman" width="40" height="40"/>
