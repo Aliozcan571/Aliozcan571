@@ -49,9 +49,6 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
     </a>
@@ -60,13 +57,13 @@
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
-</a>
+    </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://visualpharm.com/assets/187/Api-595b40b75ba036ed117d790a.svg" alt="Postman" width="40" height="40"/>
-</a>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="Postman" width="40" height="40"/>
-</a>
+    </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://icon-library.com/images/api-icon/api-icon-3.jpg" alt="IntelliJ IDEA" width="40" height="40"/>
 </a>
