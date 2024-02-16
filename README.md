@@ -65,7 +65,7 @@
     <img src="https://visualpharm.com/assets/187/Api-595b40b75ba036ed117d790a.svg" alt="Postman" width="40" height="40"/>
 </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://help.autodesk.com/view/SGDEV/ENU/images/rest-api-homepage.png" alt="Postman" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="Postman" width="40" height="40"/>
 </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jetbrains_intellijidea/jetbrains_intellijidea-icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
