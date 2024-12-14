@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, JDBC, Jira, Jenkins, Selenium, JUnit, TestNG, Cucumber, API, JMeter**
 
-- 📫 How to reach me **kardeslerime.selam.571@gmail.com**
+- 📫 How to reach me **aliozcan.qa@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliozcan571&label=Profile%20views&color=0e75b6&style=flat" alt="aliozcan571" /> </p>
 
